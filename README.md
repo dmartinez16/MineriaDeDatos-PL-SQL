@@ -49,6 +49,7 @@ eurekabank-main/
 │
 └── README.md
 
+---
 En este proyecto se trabajan conceptos como:
 
 Análisis de clientes frecuentes
@@ -61,6 +62,7 @@ Preparación de datos para análisis
 
 Exploración de patrones básicos mediante SQL
 
+---
 🛠️ Tecnologías Utilizadas
 
 Oracle Database
