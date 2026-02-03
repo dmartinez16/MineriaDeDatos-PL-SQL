@@ -48,18 +48,6 @@ eurekabank-main/
 │   └─ Scripts auxiliares y consultas útiles para el análisis.
 │
 └── README.md
-
-## En este proyecto se trabajan conceptos como:
-
-Análisis de clientes frecuentes
-
-Segmentación de información
-
-Consultas analíticas sobre datos históricos
-
-Preparación de datos para análisis
-
-Exploración de patrones básicos mediante SQL
 ```
 ---
 ##🛠️ Tecnologías Utilizadas
@@ -73,3 +61,16 @@ PL/SQL
 Oracle Data Pump (DMP)
 
 Herramientas de modelado de bases de datos
+
+---
+##🛠️ En este proyecto se trabajan conceptos como:
+
+Análisis de clientes frecuentes
+
+Segmentación de información
+
+Consultas analíticas sobre datos históricos
+
+Preparación de datos para análisis
+
+Exploración de patrones básicos mediante SQL
